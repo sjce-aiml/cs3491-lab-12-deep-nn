@@ -1,0 +1,5 @@
+numpy>=1.24
+scikit-learn>=1.3
+pytest>=7
+ruff>=0.4
+gradient-edu @ git+https://github.com/anandharajan/gradient-edu.git  # will become: gradient-edu (PyPI)
