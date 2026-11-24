@@ -4,6 +4,9 @@
 
 ▶️ **Watch first:** [Lab 12 walkthrough](https://www.youtube.com/@DrAnandharajan) · 📗 **Lesson & quiz:** [https://anandharajan.github.io/gradient-edu/#lab-12](https://anandharajan.github.io/gradient-edu/#lab-12)
 
+📘 **Lab manual (Ex.No 12):** record notes [Ex.No12.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex12_DeepLearning_CNN/Ex.No12.txt). Use them for Aim/Procedure in REPORT.md and your record. The reference program unlocks in the app once you score 60%.
+
+
 ## Your task
 Open `src/lab12.py` and implement every function marked `TODO`. Do **not** rename functions or
 change their parameters — the autograder calls them exactly as written.
