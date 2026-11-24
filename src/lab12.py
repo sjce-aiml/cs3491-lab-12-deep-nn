@@ -20,3 +20,8 @@ def batchnorm_forward(x, gamma, beta, eps=1e-05):
 def train_deep_model(X, y, seed=0):
     """A deep (>= 3 hidden layers) ReLU network with L2 regularisation. Return fitted model."""
     raise NotImplementedError('TODO: implement this')
+
+def compare_architectures(X, y, seed=0):
+    """Train at least three architectures and return {name: test_accuracy}.
+Required keys: 'shallow' (1 small layer), 'deep' (3+ layers), 'deep_regularised' (3+ layers, strong L2)."""
+    raise NotImplementedError('TODO: implement this')
